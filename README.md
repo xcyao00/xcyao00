@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**xcyao00/yaoxincheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xcyao00/xcyao00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am pursuing my Ph.D. degree (2023.04 - Present) in Shanghai Jiao Tong University, Shanghai, China. My research direction focuses on how to improve the performance of image and video anomaly detection.
-- 💬 Feel free to drop me emails if you have interests.
+- 💬 Feel free to send me emails if you have interests.
 
 [![Xincheng Yao's github stats](https://github-readme-stats.vercel.app/api?username=xcyao00&hide=contribs,prs&theme=radical)](https://github.com/xcyao00/github-readme-stats)
